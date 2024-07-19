@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
 # Welcome
 
